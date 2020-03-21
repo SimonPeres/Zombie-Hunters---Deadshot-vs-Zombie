@@ -1,0 +1,17 @@
+﻿Build started 7/21/2017 12:09:35 PM.
+     1>Project "D:\aust\sd lab project\Zombie hunter\Zombie Hunters\Zombie Hunters.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Zombie Hunters.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Zombie Hunters.vcxproj -> D:\aust\sd lab project\Zombie hunter\Debug\Zombie Hunters.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Zombie Hunters.unsuccessfulbuild".
+         Touching "Debug\Zombie Hunters.lastbuildstate".
+     1>Done Building Project "D:\aust\sd lab project\Zombie hunter\Zombie Hunters\Zombie Hunters.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
